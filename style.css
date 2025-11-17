@@ -1,0 +1,66 @@
+body {
+      background: #f7f7f7;
+      color: #333333;
+      font-weight: 300;
+}
+
+section, header {
+    width: 80%;
+    max-width: 900px;
+    margin: auto;
+}
+
+section, header {
+margin-bottom: 4rem;
+padding-top: 20px;
+font-family: "Lato", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+header h1, h2, blockquote {
+  font-family: "PT Serif", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+header h1 {
+    font-size: 4.768rem;  
+    line-height: 1;  
+    color: #DA5D2F;
+    margin: 5rem 0 1rem 0;
+}
+
+h2 {
+    font-size: 1.593rem;
+    color: #DEC51F;
+}
+
+p {
+    line-height: 1.6;
+}
+
+header h2 {
+    font-weight: 300;
+    font-style: oblique;
+    margin-bottom: 3rem;
+}
+
+header p {
+    font-size: 1.562rem;
+    font-family: "PT Serif", serif;
+    color: #DA5D2F;
+}
+
+blockquote, p {
+padding: 1rdm 0 ;
+}
+
+
+blockquote {
+    font-size: 1.562rem;
+    font-style: italic;
+    hanging-punctuation: first;
+    text-indent: -0.6rem;
+    padding-left: -5rem;
+}
